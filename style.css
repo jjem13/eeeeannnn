@@ -12,7 +12,7 @@ body{
 }
 
 footer{
-    pisition: fixed;
+    position: fixed;
     bottom: 0;
     background-color: var(--preto);
     color: var(--branco);
