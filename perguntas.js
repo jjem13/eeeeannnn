@@ -1,0 +1,23 @@
+criaCartao('Biologia', 'O que são células eucarióticas?', 'Células com núcleo organizado.')
+criaCartao('Biologia', 'O que é fotossíntese?', 'Processo de produção de glicose e oxigênio usando luz.')
+criaCartao('Biologia', 'O que é respiração celular?', 'Produção de energia com uso de glicose e oxigênio.')
+criaCartao('Biologia', 'O que é meiose?', 'Divisão celular que forma gametas com metade dos cromossomos.')
+criaCartao('Biologia', 'O que é biodiversidade?', 'Variedade de formas de vida.')
+
+criaCartao('História', 'O que foi a Revolução Industrial?', 'Transição para a produção em fábricas no século XVIII.')
+criaCartao('História', 'O que foi a Revolução Francesa?', 'Movimento que derrubou a monarquia na França em 1789.')
+criaCartao('História', 'O que foi o Iluminismo?', 'Movimento que defendia a razão e os direitos humanos.')
+criaCartao('História', 'O que foi o Tratado de Tordesilhas?', 'Divisão de terras na América entre Portugal e Espanha.')
+criaCartao('História', 'O que foi a Era Napoleônica?', 'Período do governo de Napoleão na França.')
+
+criaCartao('Inglês', 'What is the simple past tense used for?', 'Actions completed in the past.')
+criaCartao('Inglês', 'What is the structure of a negative sentence in the simple present?', 'Subject + do/does not + base verb.')
+criaCartao('Inglês', 'What are irregular verbs?', 'Verbs that don\'t add "-ed" in the past tense.')
+criaCartao('Inglês', 'What is the difference between "there", "their", and "they\'re"?', 'Place, possession, contraction of "they are."')
+criaCartao('Inglês', 'What is the present continuous tense used for?', 'Actions happening now.')
+
+criaCartao('Geografia', 'O que é globalização?', 'Integração mundial econômica e cultural.')
+criaCartao('Geografia', 'O que são placas tectônicas?', 'Partes da crosta terrestre em movimento.')
+criaCartao('Geografia', 'O que são climas temperados?', 'Climas com estações bem definidas.')
+criaCartao('Geografia', 'O que é urbanização?', 'Crescimento das cidades.')
+criaCartao('Geografia', 'O que é desmatamento?', 'Remoção de florestas em larga escala.')
