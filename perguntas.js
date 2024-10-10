@@ -10,11 +10,11 @@ criaCartao('História', 'O que foi o Iluminismo?', 'Movimento que defendia a raz
 criaCartao('História', 'O que foi o Tratado de Tordesilhas?', 'Divisão de terras na América entre Portugal e Espanha.')
 criaCartao('História', 'O que foi a Era Napoleônica?', 'Período do governo de Napoleão na França.')
 
-criaCartao('Inglês', 'What is the simple past tense used for?', 'Actions completed in the past.')
-criaCartao('Inglês', 'What is the structure of a negative sentence in the simple present?', 'Subject + do/does not + base verb.')
-criaCartao('Inglês', 'What are irregular verbs?', 'Verbs that don\'t add "-ed" in the past tense.')
-criaCartao('Inglês', 'What is the difference between "there", "their", and "they\'re"?', 'Place, possession, contraction of "they are."')
-criaCartao('Inglês', 'What is the present continuous tense used for?', 'Actions happening now.')
+criaCartao('Inglês', 'Para que serve o pretérito simples?', 'Ações concluidas no passado.')
+criaCartao('Inglês', 'Qual é a estrutura de uma frase negativa no presente simples?', 'Sujeito + do/does not + verbo base.')
+criaCartao('Inglês', 'O que são verbos irregulares?', 'Verbos que não adicionam "-ed" no pretérito.')
+criaCartao('Inglês', 'Qual é a diferença entre "there", "their" e "they/re?', 'Lugar, posse, contração de "they are"')
+criaCartao('Inglês', 'Para que serve o tempo presente contínuo?', 'Ações que acontecem agora.')
 
 criaCartao('Geografia', 'O que é globalização?', 'Integração mundial econômica e cultural.')
 criaCartao('Geografia', 'O que são placas tectônicas?', 'Partes da crosta terrestre em movimento.')
