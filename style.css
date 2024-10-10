@@ -10,3 +10,9 @@
 body{
     background-color: var(--fundo);
 }
+
+footer{
+    pisition: fixed;
+    bottom: 0;
+    background-color: var(--preto);
+}
