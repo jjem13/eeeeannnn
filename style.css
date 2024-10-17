@@ -66,6 +66,9 @@ footer{
 .resposta-cartao{
     font-weight: 700;
     color: var(--destaque);
+    background-color: var(--cartão-verso);
+    transform: rotateY(180deg);
+    border: 2px solid var(--destaque);
 }
 
 .cartao:hover .conteudo-cartao{
