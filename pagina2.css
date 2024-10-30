@@ -50,4 +50,5 @@ box-shadow: 5px 5px 5px var(--preto);
 .resposta-cartao{
     background-color: var(--cartão-verso);
     padding: 40px;
+    display: none;
 }
