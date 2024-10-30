@@ -36,3 +36,9 @@ footer{
     display: grid;
     gap: 2rem;
 }
+
+.cartao{
+    background-color: var(--cartão-frente);
+    padding: 40px;
+}
+
