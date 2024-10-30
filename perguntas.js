@@ -20,4 +20,4 @@ criaCartao('Geografia', 'O que é globalização?', 'Integração mundial econô
 criaCartao('Geografia', 'O que são placas tectônicas?', 'Partes da crosta terrestre em movimento.')
 criaCartao('Geografia', 'O que são climas temperados?', 'Climas com estações bem definidas.')
 criaCartao('Geografia', 'O que é urbanização?', 'Crescimento das cidades.')
-criaCartao('Geografia', 'O que é desmatamento?', 'Remoção de florestas em larga escala.')('Biologia', 'O que são células eucarióticas?', 'Células com núcleo organizado.')
+criaCartao('Geografia', 'O que é desmatamento?', 'Remoção de florestas em larga escala.')
